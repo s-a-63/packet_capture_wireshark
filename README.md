@@ -1,4 +1,4 @@
-# 🧪 Network Packet Capture & Protocol Analysis using Wireshark
+# Network Packet Capture & Protocol Analysis using Wireshark
 
 This project documents a basic network packet analysis conducted using **Wireshark**. The goal of the task was to capture live network traffic, analyze the types of protocols in use, and generate insights based on the data collected.
 
@@ -17,8 +17,7 @@ This project documents a basic network packet analysis conducted using **Wiresha
 
 ## 🛠️ Tools Used
 
-- **Wireshark** – Packet capture and analysis tool  
-- **Windows 10** – Operating system  
+- **Wireshark** – Packet capture and analysis tool   
 - **.pcapng** file – Captured packet data saved for analysis
 
 ---
@@ -26,7 +25,7 @@ This project documents a basic network packet analysis conducted using **Wiresha
 ## 📂 Files Included
 ### ▶️  [`Documents/`](./Documents/)
 
-- `NW packet capture.pcap` – The original packet capture file  
+- `NW packet capture.pcapng` – The original packet capture file  
 - `Task 5-Capture and Analyze Network Traffic using Wireshark` – Summary of the protocol analysis
 
 ---
